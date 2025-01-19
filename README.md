@@ -1,5 +1,5 @@
 # llm-chess
-A simple chess game where stockfish plays against a LLM
+A simple chess game where stockfish chess engine plays against a Large Language Model.
 
 
 This project implements a chess game where the renowned **Stockfish engine** plays against a **Large Language Model (LLM)** (e.g. `llama3.2`). The game is presented with a GUI built using **PySimpleGUI**, allowing users to observe the moves made by both engines in real-time.
